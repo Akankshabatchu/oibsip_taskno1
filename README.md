@@ -1,2 +1,3 @@
 # oibsip_taskno1
 Basic Calculator
+A basic calculator is a device or software application that provides a user-friendly interface for performing fundamental arithmetic operations, including addition, subtraction, multiplication, and division. It typically includes numeric keys, arithmetic operation keys, a display for input and results, and may offer features like clear, equals, and memory functions. Advanced versions, such as scientific or graphing calculators, provide additional mathematical and scientific functions. Calculators are widely used in education, business, and everyday life to simplify mathematical calculations.
